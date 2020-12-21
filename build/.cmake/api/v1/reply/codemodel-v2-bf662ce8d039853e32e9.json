@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "net",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ctest_arp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctest_arp-Debug-72c1b80a06c87839c866.json",
+					"name" : "ctest_arp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ctest_eth_in::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctest_eth_in-Debug-69a83082dc47a70a9c19.json",
+					"name" : "ctest_eth_in",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ctest_eth_out::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctest_eth_out-Debug-a98a8b794772e9b16054.json",
+					"name" : "ctest_eth_out",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ctest_icmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctest_icmp-Debug-d21991ff6542ccb2d355.json",
+					"name" : "ctest_icmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ctest_ip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctest_ip-Debug-d163382604590a91d55a.json",
+					"name" : "ctest_ip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ctest_ip_frag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctest_ip_frag-Debug-ab86bacd51538a766ab9.json",
+					"name" : "ctest_ip_frag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-93ccdf5c7117c78386be.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kali/Public/hitsz-lab-net_lab-master/net_lab/build",
+		"source" : "/home/kali/Public/hitsz-lab-net_lab-master/net_lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
